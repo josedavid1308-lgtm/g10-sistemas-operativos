@@ -4,7 +4,7 @@
 | Nombre completo | Rol | Usuario GitHub |
 |---|---|---|
 | José David López González | Creador del repositorio; trabajo compartido | josedavid1308-lgtm |
-| Sebastián Herrera Suniga | Colaborador; trabajo compartido | [pendiente] |
+| Sebastián Herrera Suniga | Colaborador; trabajo compartido | sebastianherrera-bot |
 
 Ambos participan en todas las actividades. Cada tarea tiene un responsable principal y el otro la revisa.
 
